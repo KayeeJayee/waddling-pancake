@@ -1,0 +1,14 @@
+{
+    "name": "waddling-pancake",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "author": "KJ",
+    "license": "ISC",
+    "dependencies": {
+        "mocha": "^7.1.0"
+    }
+}
