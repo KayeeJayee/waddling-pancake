@@ -1,5 +1,5 @@
 var assert = require('assert')
-require('../script.js')
+require('../src/script.js')
 describe('Sum', function() {
   describe('just a function', function() {
     it('should return the sum of two numbers', function() {
